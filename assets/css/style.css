@@ -380,7 +380,7 @@ Show dropdown on hover
     margin-bottom: 12rem;
     background-color: rgba(0, 0, 0, 0.7);
     height: auto;
-    width: fit-content;
+/*     width: fit-content; */
     padding: 40px;
     border-radius: 10px;
 }
@@ -535,7 +535,7 @@ Show dropdown on hover
 .grid-img-con div{
     display: flex;
     gap: 15px;
-    margin-top: -20px;
+    margin-top: 0px;
 }
 
 .grid-img-con .img-resize{
