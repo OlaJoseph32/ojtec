@@ -459,8 +459,8 @@
 /* Last section */
     .last-section .container{max-width: 380px; margin: 0 auto;}
     .brands-con h2{margin: 0;}
-    .brands-con p{font-size: .9rem; max-width: 360px;margin-top: -3rem; padding: 20px;}
-    .slideshow {margin-top: 20px;animation: slide 10s linear infinite;gap: 2rem;padding: 50px 0;}
+    .brands-con p{font-size: 1.1rem; max-width: 360px;margin-top: -2.yrem; padding: 20px;}
+    .slideshow {margin-top: 5px;animation: slide 10s linear infinite;gap: 2rem;padding: 20px 0;}
 
 /* Footer */
     .footer-container .container{max-width: 800px; padding: 0;}
