@@ -216,7 +216,7 @@
     .section-three-grid-con p{font-size: 1.1rem; line-height: 1.5;}
     .image-CON {display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .image-CON img{height: 250px;width: 190px;}
-    .image-CON .img2{margin-top: 1rem; margin-left: -1rem;}
+    /* .image-CON .img2{margin-top: 1rem; margin-left: -1rem;} */
 
 /* Fourth section */
     .our-service-con{width: 60%;padding: 0;}
