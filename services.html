@@ -276,15 +276,27 @@
         </div>
     </footer>
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
-      AOS.init({
-        duration: 1000,
-        delay: "100",
-        offset: "150",
-        once: "true",
-      });
+        // Select all elements with the class 'animate'
+        const animatedElements = document.querySelectorAll('.animate');
+
+        // Create an Intersection Observer
+        const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+            // Add the 'visible' class when the element enters the viewport
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target); // Optional: Unobserve to prevent re-triggering
+            }
+        });
+        }, { threshold: 0.1 }); // Trigger when 10% of the element is visible
+
+        // Observe each animated element
+        animatedElements.forEach(element => {
+        observer.observe(element);
+        });
     </script>
+
     <script src="./assets/js/script.js"></script>
 </body>
 </html>
