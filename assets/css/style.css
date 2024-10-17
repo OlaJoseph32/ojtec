@@ -514,7 +514,7 @@ Show dropdown on hover
     margin-top: -40px;
     height: fit-content;
     width: 100%;
-    padding-top: 8rem;
+    padding-top: 5rem;
     background-color: white;
 }
 
@@ -536,6 +536,8 @@ Show dropdown on hover
     display: flex;
     gap: 15px;
     margin-top: 1rem;
+    margin-top: 20px;
+    padding-bottom: 20px;
 }
 
 .grid-img-con .img-resize{
@@ -1285,4 +1287,68 @@ Show dropdown on hover
 
 .text-center{
     text-align: center;
+}
+
+
+
+
+/* Base styles for hidden state */
+.animate {
+    opacity: 0;
+    transition: all 0.9s ease-out;
+    overflow: hidden;
+}
+
+/* Fade Up */
+.fade-up {
+    transform: translateY(100px);
+}
+.fade-up.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Fade Left */
+.fade-left {
+    transform: translateX(200px);
+}
+.fade-left.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Fade Right */
+.fade-right {
+    transform: translateX(-200px);
+}
+.fade-right.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Slide Up */
+.slide-up {
+    transform: translateY(200px);
+}
+.slide-up.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Slide Left */
+.slide-left {
+    transform: translateX(200px);
+}
+.slide-left.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Slide Right */
+.slide-right {
+    transform: translateX(-200px);
+}
+.slide-right.visible {
+    opacity: 1;
+    transform: translateX(0);
 }
