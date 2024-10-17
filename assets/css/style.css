@@ -1295,8 +1295,9 @@ Show dropdown on hover
 /* Base styles for hidden state */
 .animate {
     opacity: 0;
-    transition: all 0.6s ease-out;
+    transition: all 0.9s ease-out;
     overflow: hidden;
+    animation-delay: .5s;
 }
 
 /* Fade Up */
