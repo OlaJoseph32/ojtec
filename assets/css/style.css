@@ -1302,7 +1302,7 @@ Show dropdown on hover
 
 /* Fade Up */
 .fade-up {
-    transform: translateY(20px);
+    transform: translateY(200px);
 }
 .fade-up.visible {
     opacity: 1;
@@ -1311,7 +1311,7 @@ Show dropdown on hover
 
 /* Fade Left */
 .fade-left {
-    transform: translateX(20px);
+    transform: translateX(50px);
 }
 .fade-left.visible {
     opacity: 1;
@@ -1320,7 +1320,7 @@ Show dropdown on hover
 
 /* Fade Right */
 .fade-right {
-    transform: translateX(-20px);
+    transform: translateX(-50px);
 }
 .fade-right.visible {
     opacity: 1;
