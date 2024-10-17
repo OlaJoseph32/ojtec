@@ -391,7 +391,7 @@
     img{max-width: 100%;}
     .top{height: fit-content;padding-bottom:1rem;clip-path: polygon(0 0,100% 0,100% calc(100% - 50px),50% 100%, 0 calc(100% - 50px));}
     .top h3{font-size: 1.1rem; padding: 15px; max-width: 360px;}
-    .bottom .grid-container{margin-top: -1rem; padding-bottom: 0; grid-template-columns: 1fr; display: flex;flex-direction: column-reverse;}
+    .bottom .grid-container{margin-top: -2rem; padding-bottom: 0; grid-template-columns: 1fr; display: flex;flex-direction: column-reverse;}
     .grid-img-con{margin-top: -4rem;}
     .grid-img-con img{height: 200px; width: 80%;}
     .grid-img-con div{flex-direction: column; gap: 15px;margin-top: 1.5rem;justify-content: center;align-items: center; width: 80%;}
@@ -412,6 +412,7 @@
     .section-three-grid-con h3{font-size: 1rem;}
     .section-three-grid-con p{font-size: 1rem; line-height: 1.5;}
     .section-three-grid-con{gap: 10px; grid-template-columns: 1fr; margin-top: -4rem; max-width: 100%;padding-bottom: 2rem;}
+    .section-three-grid-con .image-CON{padding-bottom: 1rem;}
     .image-CON img{height: 180px;width: 150px;}
     .image-CON .img2{margin-top: -7rem;margin-left: 2rem;}
 
