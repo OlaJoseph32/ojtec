@@ -446,13 +446,13 @@
     .dvi-grid img{height: auto;width: 50px;}
 
 /* Testimonial section */
-    .testimonies p{font-size: 1rem;font-weight: 700; margin-bottom: 1rem;}
+    .testimonies p{font-size: 1rem;font-weight: 700; margin-bottom: 8px;}
     .testimonies h3{max-width: 360px;font-size: 1rem; padding: 20px;}
     .swiper-content p{font-size: .8rem;line-height: 2;}
     .swiper-content h3{font-size: .9rem;}
 
 /* Last section */
-    .brands-con p{font-size: 1rem; max-width: 360px;margin: 0 auto;margin-top: -2rem; padding: 20px;}
+    .brands-con p{font-size: 1rem; max-width: 360px;margin: 0 auto;margin-top: -1rem; padding: 20px;}
     .slideshow {margin-top: 20px;animation: slide 10s linear infinite;gap: 2rem;padding: 50px 0;}
 
 /* Footer */
