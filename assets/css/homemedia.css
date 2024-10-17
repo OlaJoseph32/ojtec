@@ -254,6 +254,7 @@
     .dvi-grid img{height: 80px;width: 80px;}
 
 /* Testimonial section */
+    .testimonies{max-width: 600px; margin: 0 auto;}
     .ICON-CON{height: 40px;width: 40px;}
     .ICON-CON i{font-size: 1.2rem;}
 
