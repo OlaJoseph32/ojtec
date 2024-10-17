@@ -391,7 +391,7 @@
     .grid-img-con img{height: 200px; width: 80%;}
     .grid-img-con div{flex-direction: column; gap: 15px;margin-top: 1.5rem;justify-content: center;align-items: center; width: 80%;}
     .grid-img-con .img-resize{width: 100%;height: 200px; margin-bottom: 10px;} 
-    .bottom .welcome-con{width: 360px;margin: 0 auto; padding: 40px;}
+    .bottom .welcome-con{width: 360px;margin: 0 auto; padding: 20px;}
     .welcome-con h2{font-size: 1.1rem;padding-top: 20px;}
     .welcome-con h3{font-size: 1rem;margin-bottom: 0px;}
     .icon-Con{height: 60px;width: 60px;}
@@ -495,4 +495,11 @@
 @media only screen and (min-width: 600px) and (max-width: 768px) {
 /* header */
     /* header{background-color: rgb(237, 180, 9);} */
+}
+
+/* new media */
+
+@media only screen and (min-width: 400px) and (max-width: 600px) {
+    /* header */
+        header{background-color: rgb(237, 180, 9);}
 }
