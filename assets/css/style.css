@@ -1005,6 +1005,7 @@ Show dropdown on hover
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 2rem;
 }
 .testimonies h2{
     font-size: 1.3rem;
