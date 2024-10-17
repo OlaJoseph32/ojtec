@@ -411,8 +411,8 @@
     .section-three-grid-con h2{padding: 20px 0px 10px 0px;font-size: 1.2rem;} 
     .section-three-grid-con h3{font-size: 1rem;}
     .section-three-grid-con p{font-size: 1rem; line-height: 1.5;}
-    .section-three-grid-con{gap: 10px; grid-template-columns: 1fr; margin-top: -4rem; max-width: 100%;padding-bottom: 20px;}
-    .image-CON img{height: 180px;width: 140px;}
+    .section-three-grid-con{gap: 10px; grid-template-columns: 1fr; margin-top: -4rem; max-width: 100%;padding-bottom: 2rem;}
+    .image-CON img{height: 180px;width: 150px;}
     .image-CON .img2{margin-top: -7rem;margin-left: 2rem;}
 
 /* Fourth section */
