@@ -1023,7 +1023,7 @@ Show dropdown on hover
     padding: 40px 0;
     width: 780px;
     line-height: 1.5;
-    margin-bottom: -3rem;
+    /* margin-bottom: rem; */
     font-weight: 500;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
