@@ -180,7 +180,7 @@
     .top-header-nav{display: none;}
     .bottom-header .nav-bar-container{justify-content: center;gap: 10rem;}
     .bottom-header .branding img{height: 70px;width: 100px;    }
-    .nav-BAr{justify-content: center;gap: 10px;margin-left: 8rem;}
+    .nav-BAr{justify-content: center;gap: 10px;margin-left: 10rem;}
     .nav-BAr li a{font-size: .8rem; padding-top: 10px;}
     .dropdown-content {min-width: 180px;padding-left: 10px;top: 30px;}
     .dropdown-content li a {font-size: .8rem;}
@@ -216,7 +216,7 @@
     .section-three-grid-con p{font-size: 1.1rem; line-height: 1.5;}
     .image-CON {display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .image-CON img{height: 250px;width: 190px;}
-    .image-CON .img2{margin-top: -7rem;}
+    .image-CON .img2{margin-top: -8rem; margin-left: -2rem;}
 
 /* Fourth section */
     .our-service-con{width: 60%;padding: 0;}
