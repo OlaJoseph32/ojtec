@@ -175,7 +175,7 @@
 
 /* header */
     /* header{background-color: rgb(240, 231, 231);} */
-    header{max-width: 700px;}
+    header .nav-bar-container{max-width: 700px; margin: 0 auto;}
     body{overflow-x: hidden;}
     .top-header-nav{display: none;}
     .bottom-header .nav-bar-container{justify-content: center;gap: 15rem;}
