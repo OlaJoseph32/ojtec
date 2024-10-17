@@ -450,8 +450,8 @@
 /* Testimonial section */
     .testimonies{max-width: 380px; margin: 0 auto; padding-top: 2rem;}
     .testimonies p{font-size: 1rem;font-weight: 700; margin-bottom: 10px;}
-    .testimonies h3{max-width: 360px;font-size: .9rem;}
-    .swiper-con{margin-top: 2rem;}
+    .testimonies h3{max-width: 360px;font-size: .9rem; padding: 10px;}
+    .swiper-con{margin-top: 1rem;}
     .swiper-content p{font-size: .8rem;line-height: 2;}
     .swiper-content h3{font-size: .9rem;}
 
