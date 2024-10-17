@@ -411,7 +411,7 @@
     .image-CON .img2{margin-top: -7rem;margin-left: 5rem;}
 
 /* Fourth section */
-    .our-service-con{width: 90%;padding: 0;}
+    .our-service-con{width: 100%;padding: 0;}
     .our-service-con h2{padding: 30px 0;font-size: 1.6rem;}
     .our-service-con span{font-size: 1.2rem;}
     .our-service-con .icon-Con{height: 40px;width: 40px;}
@@ -419,7 +419,7 @@
     .services-con{width: 100%;margin-top: -1.3rem;padding: 10px;}
     .icon-CON img{height: 50px;width: 50px;}
     .service-list h2{font-size: .8rem;}
-    .empty-con{width:10%;}
+    .empty-con{width:0%;}
 
 /* Fifth section */
     .fifth-section-container .container{max-width:360px;}
