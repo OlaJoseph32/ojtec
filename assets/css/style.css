@@ -535,7 +535,7 @@ Show dropdown on hover
 .grid-img-con div{
     display: flex;
     gap: 15px;
-    margin-top: 0px;
+    margin-top: 1rem;
 }
 
 .grid-img-con .img-resize{
