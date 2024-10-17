@@ -1295,14 +1295,14 @@ Show dropdown on hover
 /* Base styles for hidden state */
 .animate {
     opacity: 0;
-    transition: all 0.9s ease-out;
+    transition: all 0.6s ease-out;
     overflow: hidden;
     animation-delay: .5s;
 }
 
 /* Fade Up */
 .fade-up {
-    transform: translateY(20px);
+    transform: translateY(200px);
 }
 .fade-up.visible {
     opacity: 1;
@@ -1311,7 +1311,7 @@ Show dropdown on hover
 
 /* Fade Left */
 .fade-left {
-    transform: translateX(20px);
+    transform: translateX(200px);
 }
 .fade-left.visible {
     opacity: 1;
@@ -1320,7 +1320,7 @@ Show dropdown on hover
 
 /* Fade Right */
 .fade-right {
-    transform: translateX(-20px);
+    transform: translateX(-200px);
 }
 .fade-right.visible {
     opacity: 1;
@@ -1329,7 +1329,7 @@ Show dropdown on hover
 
 /* Slide Up */
 .slide-up {
-    transform: translateY(100px);
+    transform: translateY(200px);
 }
 .slide-up.visible {
     opacity: 1;
@@ -1338,7 +1338,7 @@ Show dropdown on hover
 
 /* Slide Left */
 .slide-left {
-    transform: translateX(100px);
+    transform: translateX(200px);
 }
 .slide-left.visible {
     opacity: 1;
@@ -1347,7 +1347,7 @@ Show dropdown on hover
 
 /* Slide Right */
 .slide-right {
-    transform: translateX(-100px);
+    transform: translateX(-200px);
 }
 .slide-right.visible {
     opacity: 1;
