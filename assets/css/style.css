@@ -1329,7 +1329,7 @@ Show dropdown on hover
 
 /* Slide Up */
 .slide-up {
-    transform: translateY(100px);
+    transform: translateY(50px);
 }
 .slide-up.visible {
     opacity: 1;
