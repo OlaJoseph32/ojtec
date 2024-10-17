@@ -450,14 +450,14 @@
 /* Testimonial section */
     .testimonies{max-width: 380px; margin: 0 auto;}
     .testimonies p{font-size: 1rem;font-weight: 700; margin-bottom: 10px;}
-    .testimonies h3{font-size: .9rem; padding: 5px;}
+    .testimonies h3{max-width: 360px;font-size: .9rem;}
     .swiper-content p{font-size: .8rem;line-height: 2;}
     .swiper-content h3{font-size: .9rem;}
 
 /* Last section */
     .last-section .container{max-width: 380px; margin: 0 auto;}
     .brands-con h2{margin: 0;}
-    .brands-con p{font-size: 1rem; max-width: 360px;margin-top: -1rem; padding: 20px;}
+    .brands-con p{font-size: .9rem; max-width: 360px;margin-top: -1rem; padding: 20px;}
     .slideshow {margin-top: 20px;animation: slide 10s linear infinite;gap: 2rem;padding: 50px 0;}
 
 /* Footer */
