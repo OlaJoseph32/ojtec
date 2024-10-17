@@ -503,7 +503,7 @@
 
 /* new media */
 
-@media only screen and (min-width: 400px) and (max-width: 560px) {
+@media only screen and (min-width: 3490px) and (max-width: 490px) {
     /* header */
         header{background-color: rgb(237, 180, 9);}
 }
