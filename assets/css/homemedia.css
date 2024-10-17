@@ -390,8 +390,8 @@
 /* second section */
     img{max-width: 100%;}
     .top{height: fit-content;padding-bottom:1rem;clip-path: polygon(0 0,100% 0,100% calc(100% - 50px),50% 100%, 0 calc(100% - 50px));}
-    .top h3{font-size: 1.1rem; padding: 0; max-width: 360px;}
-    .bottom .grid-container{margin-top: -1rem; padding-bottom: 40px; grid-template-columns: 1fr; display: flex;flex-direction: column-reverse;}
+    .top h3{font-size: 1.1rem; padding: 15px; max-width: 360px;}
+    .bottom .grid-container{margin-top: -1rem; padding-bottom: 0; grid-template-columns: 1fr; display: flex;flex-direction: column-reverse;}
     .grid-img-con{margin-top: -2rem;}
     .grid-img-con img{height: 200px; width: 80%;}
     .grid-img-con div{flex-direction: column; gap: 15px;margin-top: 1.5rem;justify-content: center;align-items: center; width: 80%;}
@@ -402,7 +402,7 @@
     .icon-Con{height: 60px;width: 60px;}
     .icon-Con i{font-size: 1.5rem;}
     .paragraph{margin-top: -2rem;}
-    .paragraph h4{font-size: 1.1rem;margin-bottom: 20px;line-height: 2;}
+    .paragraph h4{font-size: 1.1rem;margin-bottom: 10px;line-height: 2;}
     .paragraph h5{font-size: .9rem; line-height: 2;}
     .paragraph p{font-size: 1rem; line-height: 2;}
 
