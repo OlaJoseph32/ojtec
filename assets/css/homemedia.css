@@ -386,7 +386,7 @@
     .carousel-caption{margin-bottom: 2rem;}
     .carousel-inner h2{font-size: .8rem;}
     .carousel-inner p{font-size: .8rem;}
-    .carousel-inner .btn{font-size: 1rem;padding: 2px 10px; margin-top: 10px;}
+    .carousel-inner .btn{font-size: .8rem;padding: 2px 10px; margin-top: 10px;}
 /* second section */
     img{max-width: 100%;}
     .top{height: fit-content;padding-bottom:1.5rem;clip-path: polygon(0 0,100% 0,100% calc(100% - 50px),50% 100%, 0 calc(100% - 50px));}
