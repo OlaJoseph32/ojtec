@@ -391,15 +391,15 @@
     .grid-img-con img{height: 200px; width: 80%;}
     .grid-img-con div{flex-direction: column; gap: 15px;margin-top: 1.5rem;justify-content: center;align-items: center; width: 80%;}
     .grid-img-con .img-resize{width: 100%;height: 200px; margin-bottom: 10px;} 
-    .bottom .welcome-con{width: 360px;margin: 0 auto; padding: 20px;}
-    .welcome-con h2{font-size: 1.1rem;padding-top: 20px;}
-    .welcome-con h3{font-size: 1rem;margin-bottom: 0px;}
+    .bottom .welcome-con{width: 360px;margin: 0 auto;}
+    .welcome-con h2{font-size: 1.6rem;padding-top: 10px;}
+    .welcome-con h3{font-size: 1.4rem;margin-bottom: 0px;}
     .icon-Con{height: 60px;width: 60px;}
     .icon-Con i{font-size: 1.5rem;}
     .paragraph{margin-top: -2rem;}
-    .paragraph h4{font-size: .9rem;margin-bottom: 20px;line-height: 2;}
-    .paragraph h5{font-size: .7rem; line-height: 2;}
-    .paragraph p{font-size: .8rem; line-height: 2;}
+    .paragraph h4{font-size: 1.1rem;margin-bottom: 20px;line-height: 2;}
+    .paragraph h5{font-size: .9rem; line-height: 2;}
+    .paragraph p{font-size: 1rem; line-height: 2;}
 
 /* Third section */
     .section-three-con .container{max-width: 360px; margin: 0 auto;}
