@@ -214,7 +214,7 @@
     .section-three-grid-con h2{padding: 40px 0px 10px 0px;font-size: 1.6rem;} 
     .section-three-grid-con h3{font-size: 1rem;}
     .section-three-grid-con p{font-size: 1.1rem; line-height: 1.5;}
-    .image-CON {display: flex; flex-direction: column; justify-content: center; align-items: start; padding-left: 25px;}
+    .image-CON {display: flex; flex-direction: column; justify-content: center; align-items: start; padding-left: 20px;}
     .image-CON img{height: 220px;width: 170px;}
     .image-CON .img2{margin-top: -8rem; justify-self: center;}
 
@@ -225,7 +225,7 @@
     .our-service-con .icon-Con i{font-size: 1.5rem;}
     .services-con{width: 100%;margin-top: -2rem;padding: 70px;}
     .icon-CON img{height: 50px;width: 50px;}
-    .service-list h2{font-size: 1.1rem;}
+    .service-list h2{font-size: 1rem;}
     .service-list a:hover .text-CoN{margin-left: 10px;transition: .5s ease-in-out;color: #f58026;}
     .service-list a:hover .icon-CON{transform: scale(1.4);}
     .empty-con{width:40%;}
