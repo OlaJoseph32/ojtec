@@ -373,7 +373,7 @@ Show dropdown on hover
     border: 2px solid rgb(255, 255, 255);
     z-index: 1;
     color: white;
-    background-color: #f58026;
+    /* background-color: #f58026; */
 }
 
 .BTtn:after {
