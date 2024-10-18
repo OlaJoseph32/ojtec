@@ -647,7 +647,7 @@ Show dropdown on hover
     .dropdown-content li a {font-size: .9rem;}
 
 /* contact us section */
-    .contact-grid-container{grid-template-columns: 1fr;}
+    .contact-grid-container{grid-template-columns: 1fr;padding: 30px;justify-content: center;align-items: center;max-width: 90%;margin: 0 auto;}
     .contact-form #firstname, .contact-form #lastname{width: 48%;}
     .contact-form .name{margin-right: 2.5%;}
     .contact-form h2, .contact-Info h2{font-size: 1.5rem;}
@@ -673,7 +673,8 @@ Show dropdown on hover
     body{overflow-x: hidden;}
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 20rem;}
 
-    .contact-grid-container{grid-template-columns: 1fr;}
+/* Contact section */
+    .contact-grid-container{grid-template-columns: 1fr;padding: 30px;justify-content: center;align-items: center;max-width: 90%;margin: 0 auto;}
     .contact-form #firstname, .contact-form #lastname{width: 100%;}
     .contact-form .name{margin-right: 0;}
 
