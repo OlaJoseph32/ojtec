@@ -1,7 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fredoka:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fredoka:wght@300..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fredoka:wght@300..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
 
 *{
     margin: 0;
@@ -530,10 +526,6 @@ Show dropdown on hover
     transition: .2s;
     transform: scale(1.5);
 }
-.contact-info #address{
-    margin-bottom: 30px;
-}
-
 
 .business-hour h3{
     font-size: .9rem;
@@ -659,7 +651,7 @@ Show dropdown on hover
 /* Footer */
     .footer-container .container{max-width: 1200px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .8rem; width: 120px;}
+    .article p{font-size: 1rem; width: 120px;}
     .footer-grid-container h2{font-size: 1rem;}
     .footer-grid-container a{font-size: .7rem;}
     .services-container, .business-hour{margin-left: -1rem;}
@@ -688,7 +680,7 @@ Show dropdown on hover
 /* Footer */
     .footer-container .container{max-width: 1400px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .6rem;}
+    .article p{font-size: 1rem;}
     .services-container, .business-hour{margin-left: 0rem;}
     .footer-grid-container h2{font-size: .7rem;}
     .footer-grid-container a{font-size: .5rem;}
@@ -730,6 +722,7 @@ Show dropdown on hover
 /* Footer */
     .footer-container .container{max-width: 800px; padding: 0;}
     .footer-grid-container{grid-template-columns: 1fr;gap: 20px;}
+    .article p{font-size: 1rem;}
     .article img{height: 90px;width: 100px;}
     .footer-grid-container h2{font-size: 1.2rem;margin-bottom: 10px;}
     .footer-grid-container a{font-size: .8rem;}
