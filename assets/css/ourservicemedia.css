@@ -51,19 +51,24 @@
     .nav-Bar li a{font-size: 1rem; padding-top: 5px; font-weight: 700;}
     .dropdown-content {min-width: 200px;padding-left: 1px;top: 30px;}
     .dropdown-content li a {font-size: .9rem;}
-
-
-    .second-section-con h3{font-size: 1.2rem;}
-    .second-section-con p{font-size: 1rem; max-width: 680px;}
+ 
+/* Frist section */
     .our-service-background .div{padding: 6.5rem 30px 0px 20px;}
     .our-service-grid-con{padding: 10px;gap: 10px;}
     .our-service-background h2{font-size: 2.5rem}
     .our-service-background span{font-size: 2rem}
     .book-US .contactBtn{font-size: 1.4rem;padding: 5px 8px; margin: 0px 35px 20px 10px ; }
+
+/* Second section */
+    .second-section-con h2{font-size: 1.8rem;}
+    .second-section-con h3{font-size: 1.2rem;}
+    .second-section-con p{font-size: 1rem; max-width: 680px;}
+
+/* Last section */
     .our-service-grid-con h3{font-size: 1.5rem}
     .our-service-grid-con p{font-size: .9rem}
     .services-images img{height: 75%; width: 80%;}
-    
+
 /* Footer */
     .footer-container .container{max-width: 1200px;}
     .article img{height: 90px;width: 100px;}
@@ -82,10 +87,9 @@
     /* header{background-color: rgb(236, 6, 248);} */
     body{overflow-x: hidden;}
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 20rem;}
+ 
     
-    .second-section-con .container{padding-bottom: 10px;}
-    .second-section-con h3{font-size: 1rem;}
-    .second-section-con p{font-size: .9rem; max-width: 600px;}
+/* First section */
     .our-service-background h2{font-size: 2.3rem; padding: 20px 0;}
     .our-service-background span{font-size: 2rem;}
     .our-service-background .div{padding: 8.5rem 30px 0px 20px;}
@@ -94,6 +98,12 @@
     .services-images img{width: 80%; height: auto;}
     .contact-US{margin: 80px 0;}
     .contact-US .contactBtn{font-size: 1rem;padding: 15px 20px;}
+
+/* Second section */
+    .second-section-con h2{font-size: 1.8rem;}
+    .second-section-con .container{padding-bottom: 10px;}
+    .second-section-con h3{font-size: 1rem;}
+    .second-section-con p{font-size: .9rem; max-width: 600px;}
     
 /* Footer */
     .footer-container .container{max-width: 1400px;}
@@ -116,17 +126,21 @@
     .bottom-header .branding img{height: auto;width: 60px; margin-left: 2rem;}
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 10rem;}
     .mobile-menu{top: 60px;}
+    
+/* First section */
+    .our-service-background h2{font-size: 2rem; padding: 20px 0;}
+    .our-service-background span{font-size: 1.6rem;}
+    .our-service-background .div{padding: 5.5rem 30px 0px 20px;}
+    .book-US .contactBtn{font-size: 1rem;padding: 5px 8px; margin: 0px 20px 10px 8px;}
+    .contact-form .name{margin-right: 3.5%;}
+    .contact-grid-container{padding: 20px}
 
+/* Second section */
     .second-section-con .container{padding-bottom: 5px; max-width: 360px; margin: 0 auto;}
     .second-section-con h2{font-size: 1.1rem;}
     .second-section-con h3{font-size: .8rem;}
     .second-section-con p{font-size: .8rem; max-width: 360px;}
-    .our-service-background h2{font-size: 1.1rem; padding: 20px 0;}
-    .our-service-background span{font-size: .8rem;}
-    .our-service-background .div{padding: 5.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: .5rem;padding: 10px 10px;}
-    .contact-form .name{margin-right: 3.5%;}
-    .contact-grid-container{padding: 20px}
+
 
 /* Last section */
     .last-section-con .container{max-width: 380px; margin: 0 auto; padding: 0;}
@@ -138,7 +152,6 @@
     .footer-grid-container h2{font-size: 1.2rem;margin-bottom: 10px;}
     .footer-grid-container a{font-size: .8rem;}
     .contact-info i{font-size: 1rem;}
-    .contact-info #address{margin-bottom: 30px;}
     .business-hour h3{font-size: .8rem;}
     .business-hour p{font-size: .8rem;}
     .copywrite p{font-size: .8rem;}
@@ -147,17 +160,21 @@
 @media screen and (max-width: 399px){
 /* header{background-color: brown;}  */
     body{overflow-x: hidden;}
+   
+/* First section */
     .our-service-background .div{padding: 8.5rem 30px 0px 20px;}
-    .our-service-background h2{font-size: 1.1rem; padding: 20px 0;}
-    .our-service-background span{font-size: .8rem;}
-    .book-US .contactBtn{font-size: .5rem;padding: 5px 5px;border-radius: 5px;}
+    .our-service-background h2{font-size: 1.9rem; padding: 20px 0;}
+    .our-service-background span{font-size: 1.4rem;}
+    .book-US .contactBtn{font-size: .8rem;padding: 5px 5px;border-radius: 5px;}
+   
+/*footer  */
     .copywrite p{font-size: .6rem;}
     .footer-grid-container a,  .footer-grid-container p{font-size: .8rem}
     .article p{width: 200px;}
     .footer-grid-container h2, .footer-grid-container h3{font-size: 1rem}
     .contact-info span{margin-left: 25px}
-}
-    
+
+}    
     
 @media screen and (max-width: 320px){
 /* header */
