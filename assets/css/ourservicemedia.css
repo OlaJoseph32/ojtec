@@ -124,7 +124,7 @@
     /* header{background-color: rgb(176, 236, 13);} */
     body{overflow-x: hidden;}
     .bottom-header .branding img{height: auto;width: 60px; margin-left: 2rem;}
-    .bottom-header .nav-bar-container{justify-content: space-around; gap: 9rem;}
+    .bottom-header .nav-bar-container{justify-content: space-around; gap: 8rem;}
     .mobile-menu{top: 60px;}
     
 /* First section */
@@ -136,7 +136,7 @@
     .contact-grid-container{padding: 20px}
 
 /* Second section */
-    .second-section-con .container{align-items: start; justify-content: flex-start; padding-left: 10px; padding-bottom: 5px; max-width: 330px; margin: 0 auto;}
+    .second-section-con .container{align-items: start; justify-content: flex-start; padding: 35px; max-width: 330px; margin: 0 auto;}
     .second-section-con h2{font-size: 1.4rem;}
     .second-section-con h3{font-size: 1.2rem;}
     .second-section-con p{font-size: 1.1rem; max-width: 310px;}
