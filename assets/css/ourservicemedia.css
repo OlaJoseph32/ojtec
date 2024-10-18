@@ -102,8 +102,8 @@
 /* Second section */
     .second-section-con h2{font-size: 1.8rem;}
     .second-section-con .container{padding-bottom: 10px;}
-    .second-section-con h3{font-size: 1rem;}
-    .second-section-con p{font-size: .9rem; max-width: 600px;}
+    .second-section-con h3{font-size: 1.2rem;}
+    .second-section-con p{font-size: 1.1rem; max-width: 600px;}
     
 /* Footer */
     .footer-container .container{max-width: 1400px;}
@@ -124,22 +124,22 @@
     /* header{background-color: rgb(176, 236, 13);} */
     body{overflow-x: hidden;}
     .bottom-header .branding img{height: auto;width: 60px; margin-left: 2rem;}
-    .bottom-header .nav-bar-container{justify-content: space-around; gap: 10rem;}
+    .bottom-header .nav-bar-container{justify-content: space-around; gap: 9rem;}
     .mobile-menu{top: 60px;}
     
 /* First section */
-    .our-service-background h2{font-size: 2rem; padding: 20px 0;}
-    .our-service-background span{font-size: 1.6rem;}
-    .our-service-background .div{padding: 5.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: 1rem;padding: 5px 8px; margin: 0px 20px 10px 8px;}
+    .our-service-background h2{font-size: 1.7rem; padding: 20px 0;}
+    .our-service-background span{font-size: 1.3rem;}
+    .our-service-background .div{padding: 5.5rem 30px 0px 10px;}
+    .book-US .contactBtn{font-size: 1rem;padding: 5px 8px; margin: 0px 10px 10px 8px;}
     .contact-form .name{margin-right: 3.5%;}
     .contact-grid-container{padding: 20px}
 
 /* Second section */
     .second-section-con .container{padding-bottom: 5px; max-width: 300px; margin: 0 auto;}
-    .second-section-con h2{font-size: 1.1rem;}
-    .second-section-con h3{font-size: .8rem;}
-    .second-section-con p{font-size: .9rem; max-width: 270px;}
+    .second-section-con h2{font-size: 1.4rem;}
+    .second-section-con h3{font-size: 1.2rem;}
+    .second-section-con p{font-size: 1.1rem; max-width: 270px;}
 
 
 /* Last section */
