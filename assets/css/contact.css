@@ -525,7 +525,7 @@ Show dropdown on hover
 }
 
 .contact-info #address{
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 
@@ -702,7 +702,7 @@ Show dropdown on hover
     .contact-us-con{margin-top: 7rem; display: flex; justify-content: center; align-items: center;}
     .contact-form #firstname, .contact-form #lastname{width: 100%;}
     .contact-form .name{margin-right: 0;}
-    .contact-grid-container{max-width: 300px;}
+    .contact-grid-container{max-width: 90%;}
     .contact-form input, #message{padding: 8px 10px;margin: 8px 0 10px 0;}
     .con a{font-size: .8rem;}
     .icon-con{height: 35px;width: 35px;}
@@ -715,7 +715,6 @@ Show dropdown on hover
     .footer-grid-container h2{font-size: 1.2rem;margin-bottom: 10px;}
     .footer-grid-container a{font-size: .8rem;}
     .contact-info i{font-size: 1rem;}
-    .contact-info #address{margin-bottom: 30px;}
     .business-hour h3{font-size: .8rem;}
     .business-hour p{font-size: .8rem;}
     .copywrite p{font-size: .8rem;}
