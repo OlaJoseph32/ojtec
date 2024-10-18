@@ -676,7 +676,7 @@ Show dropdown on hover
 /* About Section */
     .about-us-background .div{padding: 6.5rem 30px 0px 20px;}
     .about-us-background h2{font-size: 2.5rem}
-    .about-us-background span{font-size: 1.5rem}
+    .about-us-background span{font-size: 2rem}
     .book-US .contactBtn{font-size: 1.4rem;padding: 5px 8px; margin: 0px 60px 30px 20px ; }
 
 /* Last section con */
@@ -702,10 +702,10 @@ Show dropdown on hover
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 20rem;}
 
 /* ABout section */
-    .about-us-background h2{font-size: 1.4rem; padding: 20px 0;}
-    .about-us-background span{font-size: 1rem;}
+    .about-us-background h2{font-size: 2.5rem; padding: 20px 0;}
+    .about-us-background span{font-size: 2rem;}
     .about-us-background .div{padding: 8.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: .6rem;padding: 10px 10px;}
+    .book-US .contactBtn{font-size: 1.5rem;padding: 5px 8px;}
     .last-section-grid-container{grid-template-columns: 1fr; gap: 40px; padding: 10px;}
     .about-us p{padding: 15px;font-size: .9rem;line-height: 1.7;font-family: "Quicksand", sans-serif;font-weight: 400;}
     .our-m-v-v p{font-size: .9rem;}
@@ -738,8 +738,8 @@ Show dropdown on hover
     .mobile-menu{top: 60px;}
 
 /* About us section */
-    .about-us-background h2{font-size: 1.1rem; padding: 20px 0;}
-    .about-us-background span{font-size: .8rem;}
+    .about-us-background h2{font-size: 2rem; padding: 20px 0;}
+    .about-us-background span{font-size: 1.6rem;}
     .about-us-background .div{padding: 5.5rem 30px 0px 20px;}
     .book-US .contactBtn{font-size: 1rem;padding: 5px 8px;}
 
@@ -771,8 +771,8 @@ Show dropdown on hover
     
 /* About section */
     .about-us-background .div{padding: 5.5rem 30px 0px 20px;}
-    .about-us-background h2{font-size: 1.1rem; padding: 20px 0;}
-    .about-us-background span{font-size: .8rem;}
+    .about-us-background h2{font-size: 1.9rem; padding: 20px 0;}
+    .about-us-background span{font-size: 1.4rem;}
     .book-US .contactBtn{font-size: .8rem;padding: 5px 5px;border-radius: 5px;}
     
 /* footer */
