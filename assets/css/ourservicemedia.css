@@ -72,7 +72,7 @@
 /* Footer */
     .footer-container .container{max-width: 1200px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .8rem;}
+    .article p{font-size: 1rem;}
     .footer-grid-container h2{font-size: 1rem;}
     .footer-grid-container a{font-size: .7rem;}
     .services-container, .business-hour{margin-left: -1rem;}
@@ -108,7 +108,7 @@
 /* Footer */
     .footer-container .container{max-width: 1400px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .6rem;}
+    .article p{font-size: 1rem;}
     .services-container, .business-hour{margin-left: 0rem;}
     .footer-grid-container h2{font-size: .7rem;}
     .footer-grid-container a{font-size: .5rem;}
@@ -148,6 +148,7 @@
 /* Footer */
     .footer-container .container{max-width: 800px; padding: 0;}
     .footer-grid-container{grid-template-columns: 1fr;gap: 20px;}
+    .article p{font-size: 1rem;}
     .article img{height: 90px;width: 100px;}
     .footer-grid-container h2{font-size: 1.2rem;margin-bottom: 10px;}
     .footer-grid-container a{font-size: .8rem;}
