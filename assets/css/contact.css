@@ -699,7 +699,7 @@ Show dropdown on hover
     .mobile-menu{top: 60px;}
 
     /* contact us section */
-    .contact-grid-container{padding: 20px;justify-content: center;align-items: center;max-width: 90%;margin: 0 auto;}
+    .contact-grid-container{padding: 10px;justify-content: center;align-items: center;max-width: 97%;margin: 0 auto;}
     .contact-us-con{margin-top: 7rem; display: flex; justify-content: center; align-items: center;}
     .contact-form #firstname, .contact-form #lastname{width: 100%;}
     .contact-form .name{margin-right: 0;}
