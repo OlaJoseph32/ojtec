@@ -410,6 +410,9 @@ Show dropdown on hover
     height: auto;
     margin: 36px auto;
     color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .success-title {
