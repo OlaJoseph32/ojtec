@@ -136,10 +136,10 @@
     .contact-grid-container{padding: 20px}
 
 /* Second section */
-    .second-section-con .container{padding-bottom: 5px; max-width: 300px; margin: 0 auto;}
+    .second-section-con .container{align-items: start; padding-bottom: 5px; max-width: 330px; margin: 0 auto;}
     .second-section-con h2{font-size: 1.4rem;}
     .second-section-con h3{font-size: 1.2rem;}
-    .second-section-con p{font-size: 1.1rem; max-width: 270px;}
+    .second-section-con p{font-size: 1.1rem; max-width: 310px;}
 
 
 /* Last section */
