@@ -647,6 +647,7 @@ Show dropdown on hover
     .dropdown-content li a {font-size: .9rem;}
 
 /* contact us section */
+    .contact-us-con{margin-top: 8rem;}
     .contact-grid-container{grid-template-columns: 1fr;padding: 30px;justify-content: center;align-items: center;max-width: 90%;margin: 0 auto;}
     .contact-form #firstname, .contact-form #lastname{width: 48%;}
     .contact-form .name{margin-right: 2.5%;}
