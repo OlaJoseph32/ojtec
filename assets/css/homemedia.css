@@ -219,7 +219,7 @@
     .image-CON .img2{margin-top: -8rem; justify-self: center;}
 
 /* Fourth section */
-    .our-service-con{width: 60%;padding: 0;}
+    .our-service-con{width: 75%;padding: 0;}
     .our-service-con h2{padding: 30px 0;font-size: 2.6rem;}.our-service-con span{font-size: 2rem;}
     .our-service-con .icon-Con{height: 60px;width: 60px;}
     .our-service-con .icon-Con i{font-size: 1.5rem;}
@@ -228,7 +228,7 @@
     .service-list h2{font-size: 1rem;}
     .service-list a:hover .text-CoN{margin-left: 10px;transition: .5s ease-in-out;color: #f58026;}
     .service-list a:hover .icon-CON{transform: scale(1.4);}
-    .empty-con{width:40%;}
+    .empty-con{width:25%;}
 
 /* Fifth section */
     .fifth-section-container .grid-con{padding: 30px 0;}
@@ -254,17 +254,17 @@
     .dvi-grid img{height: 80px;width: 80px;}
 
 /* Testimonial section */
-    .testimonies{max-width: 700px; margin: 0 auto; padding: 20px;}
+    .testimonies{max-width: 600px; margin: 0 auto; padding: 20px;}
     .ICON-CON{height: 40px;width: 40px;}
     .ICON-CON i{font-size: 1.2rem;}
-    .testimonies h3{ max-width: 660px;font-size: 1rem; padding: 10px;}
+    .testimonies h3{ max-width: 560px;font-size: 1rem; padding: 10px;}
 
 
 /* Last section */
     .slideshow {gap: 3rem;}
     .slideshow img {width: 70px;height: 30px;}
-    .last-section .container{max-width: 700px; margin: 0 auto;}
-    .brands-con p{font-size: 1.1rem; max-width: 660px;margin-top: -2rem; padding: 20px;}
+    .last-section .container{max-width: 600px; margin: 0 auto;}
+    .brands-con p{font-size: 1.1rem; max-width: 560px;margin-top: -2rem; padding: 20px;}
 
 
 /* Footer */
@@ -283,7 +283,7 @@
 /* header */
     /* header{background-color: rgb(236, 6, 248);} */
     body{overflow-x: hidden;}
-    .bottom-header .nav-bar-container{justify-content: space-around; gap: 30rem;}
+    .bottom-header .nav-bar-container{max-width: 700px; margin: 0 auto; justify-content: space-around; gap: 25rem;}
 
 /* Hero section */
     .carousel-inner img{height: 30.5rem;margin-top: 0rem;}
@@ -317,7 +317,7 @@
     .image-CON .img2{margin-top: -7rem;}
 
 /* Fourth section */
-    .our-service-con{width: 60%;padding: 0;}
+    .our-service-con{width: 75%;padding: 0;}
     .our-service-con h2{padding: 30px 0;font-size: 2rem;}
     .our-service-con span{font-size: 1.6rem;}
     .our-service-con .icon-Con{height: 60px;width: 60px;}
@@ -325,6 +325,7 @@
     .services-con{width: 100%;margin-top: -2rem;padding: 30px;}
     .icon-CON img{height: 50px;width: 50px;}
     .service-list h2{font-size: 1rem;}
+    .empty-con{width:25%;}
 
 /* Fifth section */
     .fifth-section-container .grid-con{padding: 30px 0; gap: 50px;}
@@ -348,19 +349,21 @@
     .dvi-grid img{height: auto;width: 50px;}
 
 /* Testimonial section */
+    .testimonies{max-width: 550px; margin: 0 auto; padding: 20px;}
+    .testimonies h3{ max-width: 500px;font-size: 1rem; padding: 10px;}
     .testimonies h2{font-size: 1.2rem;}
-    .testimonies p{font-size: 1.2rem;}
-    .testimonies h3{max-width: 600px;font-size: .8rem;}
     .ICON-CON{height: 40px;width: 40px;}
     .ICON-CON i{font-size: 1.2rem;}
     .swiper-content p{font-size: .9rem;line-height: 1.3;}
     .swiper-content h3{font-size: .9rem;}
 
 /* Last section */
-    .brands-con{max-width: 600px;margin: 0 auto;}
-    .brands-con p{font-size: .8rem;}
+    .brands-con{max-width: 500px;margin: 0 auto;}
     .slideshow {gap: 2rem;}
     .slideshow img {width: 50px;height: auto;}
+    .last-section .container{max-width: 550px; margin: 0 auto;}
+    .brands-con p{font-size: 1.1rem; max-width: 480px;margin-top: -2rem; padding: 20px;}
+
 
 /* Footer */
     .footer-container .container{max-width: 1400px;}
