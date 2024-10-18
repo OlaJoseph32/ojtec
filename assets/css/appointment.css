@@ -406,6 +406,7 @@ Show dropdown on hover
     font-size: 1.2rem;
     margin-top: 20px;
     margin-bottom: 10px;
+    border-radius: 10px;
 }
 
 .bttnn {
