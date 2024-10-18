@@ -506,7 +506,7 @@ Show dropdown on hover
     color: #eec212;
     font-size: 2.3rem;
     font-style: italic;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif */
 }
 
 .bottom {
@@ -1005,22 +1005,17 @@ Show dropdown on hover
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 2rem;
+    margin-top: 4rem;
     height: fit-content;
 }
 .testimonies h2{
     font-size: 1.3rem;
     font-weight: 600;
-    padding: 10px 0;
     /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
-.testimonies p{
-    /* font-family: "IBM Plex Mono", monospace; */
-    margin-bottom: -2rem;
-}
+
 .testimonies h3{
     font-size: 1.1rem;
-    padding: 40px 0;
     width: 780px;
     line-height: 1.5;
     /* margin-bottom: rem; */
