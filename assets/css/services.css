@@ -380,7 +380,7 @@ Show dropdown on hover
 .second-section-con h3{
     text-transform: uppercase;
     padding: 0px 0px 10px 0px;
-    font-family: "Orbitron", sans-serif;
+    /* font-family: "Orbitron", sans-serif; */
     color:#df690e;
 }
 .second-section-con p{
