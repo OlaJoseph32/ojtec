@@ -618,12 +618,12 @@ Show dropdown on hover
 .section-three-grid-con h2{
     padding: 50px 0px 20px 0px;
     text-transform: uppercase;
-    font-family: "PT Mono", monospace;
+    /* font-family: "PT Mono", monospace; */
     font-size: 2.5rem;
 } 
 .section-three-grid-con h3{
     padding: 0px 0px 10px 0px;
-    font-family: "Orbitron", sans-serif;
+    /* font-family: "Orbitron", sans-serif; */
     color:#df690e;
     font-size: 1.4rem;
 }
@@ -1221,9 +1221,9 @@ Show dropdown on hover
     line-height: 2;
 }
 
-.contact-info #address{
+/* .contact-info #address{
     margin-bottom: 30px;
-}
+} */
 
 
 .business-hour h3{
