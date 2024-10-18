@@ -351,7 +351,7 @@ Show dropdown on hover
     font-family: "Orbitron", sans-serif;
 }
 .about-us-background span{
-    color: #f58026;
+    /* color: #f58026; */
     font-size: 3rem;
 }
 .book-US .contactBtn{
