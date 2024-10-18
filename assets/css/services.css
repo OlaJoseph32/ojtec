@@ -526,6 +526,7 @@ Show dropdown on hover
     font-weight: 400;
     font-size: 1rem;
     margin-bottom: 20px;
+    font-style: italic;
     font-family: "PT Sans", sans-serif;
 }
 .article i{
