@@ -1222,9 +1222,9 @@ Show dropdown on hover
     line-height: 2;
 }
 
-/* .contact-info #address{
-    margin-bottom: 30px;
-} */
+.contact-info #address{
+    margin-bottom: 10px;
+}
 
 
 .business-hour h3{
