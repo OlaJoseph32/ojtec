@@ -103,7 +103,7 @@
     <section class="contact-us-con">
         <div class="container">
             <div class="contact-grid-container">
-                <div class="contact-form animate__animated animate__fadeInLeft">
+                <div class="contact-form animate fade-left">
                     <h2 class="text-md text-center">Get in touch</h2>
                     
                     <form action="https://api.web3forms.com/submit" method="POST" id="contactForm">
@@ -131,7 +131,7 @@
 
                     <div id="formMessage"></div> <!-- Display message after submission -->
                 </div>
-                <div class="contact-Info contact-form animate__animated animate__fadeInRight">
+                <div class="contact-Info contact-form animate fade-right">
                     <h2 class="text-md text-center">Contact us</h2>
                     <div class="social-LinK">
                         <div class="con">
@@ -240,6 +240,26 @@
         </div>
     </footer>
 
+    <script>
+        // Select all elements with the class 'animate'
+        const animatedElements = document.querySelectorAll('.animate');
+
+        // Create an Intersection Observer
+        const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+            // Add the 'visible' class when the element enters the viewport
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target); // Optional: Unobserve to prevent re-triggering
+            }
+        });
+        }, { threshold: 0.1 }); // Trigger when 10% of the element is visible
+
+        // Observe each animated element
+        animatedElements.forEach(element => {
+        observer.observe(element);
+        });
+    </script>
     <script src="./assets/js/script.js"></script>
 </body>
 </html>
