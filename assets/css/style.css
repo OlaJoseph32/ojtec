@@ -1162,6 +1162,7 @@ Show dropdown on hover
     font-size: 1rem;
     margin-bottom: 20px;
     font-family: "PT Sans", sans-serif;
+    font-style: ;
 }
 .article a:hover i{
     transition: .2s;
