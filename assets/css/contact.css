@@ -698,11 +698,11 @@ Show dropdown on hover
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 10rem;}
     .mobile-menu{top: 60px;}
 
-/* contact us section */
+    /* contact us section */
+    .contact-grid-container{padding: 20px;justify-content: center;align-items: center;max-width: 90%;margin: 0 auto;}
     .contact-us-con{margin-top: 7rem; display: flex; justify-content: center; align-items: center;}
     .contact-form #firstname, .contact-form #lastname{width: 100%;}
     .contact-form .name{margin-right: 0;}
-    .contact-grid-container{max-width: 90%;}
     .contact-form input, #message{padding: 8px 10px;margin: 8px 0 10px 0;}
     .con a{font-size: .8rem;}
     .icon-con{height: 35px;width: 35px;}
