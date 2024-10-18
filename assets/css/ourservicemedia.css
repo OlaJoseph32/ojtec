@@ -53,14 +53,13 @@
     .dropdown-content li a {font-size: .9rem;}
 
 
-    .second-section-con h2{font-size: 2rem;}
     .second-section-con h3{font-size: 1.2rem;}
     .second-section-con p{font-size: 1rem; max-width: 680px;}
     .our-service-background .div{padding: 6.5rem 30px 0px 20px;}
     .our-service-grid-con{padding: 10px;gap: 10px;}
     .our-service-background h2{font-size: 2.5rem}
-    .our-service-background span{font-size: 1.5rem}
-    .book-US .contactBtn{font-size: .9rem;padding: 15px 20px}
+    .our-service-background span{font-size: 2rem}
+    .book-US .contactBtn{font-size: 1.4rem;padding: 5px 8px; margin: 0px 35px 20px 10px ; }
     .our-service-grid-con h3{font-size: 1.5rem}
     .our-service-grid-con p{font-size: .9rem}
     .services-images img{height: 75%; width: 80%;}
@@ -85,13 +84,12 @@
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 20rem;}
     
     .second-section-con .container{padding-bottom: 10px;}
-    .second-section-con h2{font-size: 1.5rem;}
     .second-section-con h3{font-size: 1rem;}
     .second-section-con p{font-size: .9rem; max-width: 600px;}
-    .our-service-background h2{font-size: 1.4rem; padding: 20px 0;}
-    .our-service-background span{font-size: 1rem;}
+    .our-service-background h2{font-size: 2.3rem; padding: 20px 0;}
+    .our-service-background span{font-size: 2rem;}
     .our-service-background .div{padding: 8.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: .6rem;padding: 10px 10px;}
+    .book-US .contactBtn{font-size: 1.5rem;padding: 5px 8px;margin: 0px 20px 15px 10px ;}
     .our-service-grid-con{grid-template-columns:1fr;}
     .services-images img{width: 80%; height: auto;}
     .contact-US{margin: 80px 0;}

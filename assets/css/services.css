@@ -374,11 +374,11 @@ Show dropdown on hover
 .second-section-con h2{
     padding: 50px 0px 20px 0px;
     text-transform: uppercase;
-    font-family: "PT Mono", monospace;
+    /* font-family: "PT Mono", monospace; */
 }
 
 .second-section-con h3{
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
     padding: 0px 0px 10px 0px;
     font-family: "Orbitron", sans-serif;
     color:#df690e;
