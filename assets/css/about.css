@@ -359,15 +359,14 @@ Show dropdown on hover
     font-weight: 600;
     color: #f7f7f8;
     /* border: solid 2px #f58026; */
-    padding: 20px 30px;
+    padding: 5px 8px;
     text-transform: uppercase;
     font-family: "Fredoka", sans-serif;
     transition: all 0.3s ease;
     position: relative;
     display: inline-block;
     border-radius: 10px;
-    font-size: 1.5rem;
-    padding: 20px 30px;
+    font-size: 2rem;
     margin: 10px 60px 70px 20px;
 }
 .BTtn {
@@ -491,6 +490,7 @@ Show dropdown on hover
     font-size: 1rem;
     margin-bottom: 20px;
     font-family: "PT Sans", sans-serif;
+    font-style: italic;
 }
 .article i{
     margin-right: 20px;
@@ -547,7 +547,7 @@ Show dropdown on hover
 
 
 .contact-info #address{
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 
