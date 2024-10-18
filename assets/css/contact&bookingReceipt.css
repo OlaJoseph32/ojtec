@@ -407,7 +407,7 @@ Show dropdown on hover
     background: #359d00;
     /* border-radius: 50%; */
     width: 70px;
-    height: 70px;
+    height: auto;
     margin: 36px auto;
     color: #fff;
 }
@@ -573,7 +573,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 14px 12px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.4rem;height: 40px; width: 40px;margin: 10px auto;}
+    .success-icon {font-size: 1.4rem;width: 40px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .8rem;line-height: 1.7;margin-bottom: 24px;}
 }
@@ -592,7 +592,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 14px 12px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.4rem;height: 40px; width: 40px;margin: 10px auto;}
+    .success-icon {font-size: 1.4rem; width: 40px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .8rem;line-height: 1.7;margin-bottom: 24px;}
 
@@ -615,7 +615,7 @@ Show dropdown on hover
     .paper {height: 237px;margin-top: -20px;}
     .main-contents {padding: 14px 5px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.6rem;height: 50px; width: 50px;margin: 10px auto;}
+    .success-icon {font-size: 1.6rem; width: 50px;margin: 10px auto;}
     .success-title {font-size: .9rem;margin-bottom: 10px;}
     .success-description {font-size: .7rem;line-height: 1.7;margin-bottom: 24px;}
 
@@ -643,7 +643,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 7px 5px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1rem; height: 35px; width: 35px;margin: 10px auto;}
+    .success-icon {font-size: 1rem; width: 35px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .6rem;line-height: 1.7;margin-bottom: 24px;}
 
