@@ -677,7 +677,7 @@ Show dropdown on hover
     .about-us-background .div{padding: 6.5rem 30px 0px 20px;}
     .about-us-background h2{font-size: 2.5rem}
     .about-us-background span{font-size: 2rem}
-    .book-US .contactBtn{font-size: 1.4rem;padding: 5px 8px; margin: 0px 60px 30px 20px ; }
+    .book-US .contactBtn{font-size: 1.4rem;padding: 5px 8px; margin: 0px 35px 20px 10px ; }
 
 /* Last section con */
     .last-section-grid-container .about-us p{font-size: 1rem;}
@@ -705,7 +705,7 @@ Show dropdown on hover
     .about-us-background h2{font-size: 2.5rem; padding: 20px 0;}
     .about-us-background span{font-size: 2rem;}
     .about-us-background .div{padding: 8.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: 1.5rem;padding: 5px 8px;}
+    .book-US .contactBtn{font-size: 1.5rem;padding: 5px 8px;margin: 0px 30px 15px 10px ;}
     .last-section-grid-container{grid-template-columns: 1fr; gap: 40px; padding: 10px;}
     .about-us p{padding: 15px;font-size: .9rem;line-height: 1.7;font-family: "Quicksand", sans-serif;font-weight: 400;}
     .our-m-v-v p{font-size: .9rem;}
@@ -741,7 +741,7 @@ Show dropdown on hover
     .about-us-background h2{font-size: 2rem; padding: 20px 0;}
     .about-us-background span{font-size: 1.6rem;}
     .about-us-background .div{padding: 5.5rem 30px 0px 20px;}
-    .book-US .contactBtn{font-size: 1rem;padding: 5px 8px;}
+    .book-US .contactBtn{font-size: 1rem;padding: 5px 8px;margin: 0px 20px 10px 8px ;}
 
 /* Footer */
     .footer-container .container{max-width: 800px; padding: 0;}
