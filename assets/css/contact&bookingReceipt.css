@@ -406,8 +406,9 @@ Show dropdown on hover
     font-size: 48px;
     height: auto;
     background: #359d00;
-    border-radius: 50%;
-    width: 72px;
+    /* border-radius: 50%; */
+    width: 70px;
+    height: 70px;
     margin: 36px auto;
     color: #fff;
 }
