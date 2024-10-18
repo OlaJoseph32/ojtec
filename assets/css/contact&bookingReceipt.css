@@ -526,7 +526,7 @@ Show dropdown on hover
     .paper {height: 347px;margin-top: -15px;}
     .main-contents {padding: 24px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.9rem;height: auto; width: 62px;margin: 16px auto;}
+    .success-icon {font-size: 1.9rem;height: 62px; width: 62px;margin: 16px auto;}
     .success-title {font-size: 1.3rem;margin-bottom: 16px;}
     .success-description {font-size: 1.2rem;line-height: 2;margin-bottom: 24px;}
 }
@@ -549,7 +549,7 @@ Show dropdown on hover
     .paper {height: 347px;margin-top: -15px;}
     .main-contents {padding: 24px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.9rem;height: auto; width: 62px;margin: 16px auto;}
+    .success-icon {font-size: 1.9rem;height: 62px; width: 62px;margin: 16px auto;}
     .success-title {font-size: 1.3rem;margin-bottom: 16px;}
     .success-description {font-size: 1.2rem;line-height: 2;margin-bottom: 24px;}
 }
@@ -573,7 +573,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 14px 12px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.4rem;height: auto; width: 40px;margin: 10px auto;}
+    .success-icon {font-size: 1.4rem;height: 40px; width: 40px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .8rem;line-height: 1.7;margin-bottom: 24px;}
 }
@@ -592,7 +592,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 14px 12px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.4rem;height: auto; width: 40px;margin: 10px auto;}
+    .success-icon {font-size: 1.4rem;height: 40px; width: 40px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .8rem;line-height: 1.7;margin-bottom: 24px;}
 
@@ -603,7 +603,7 @@ Show dropdown on hover
 /* header */
     /* header{background-color: rgb(176, 236, 13);} */
     body{overflow-x: hidden;}
-    .bottom-header .branding img{height: auto;width: 60px; margin-left: 2rem;}
+    .bottom-header .branding img{height: 60px;width: 60px; margin-left: 2rem;}
     .bottom-header .nav-bar-container{justify-content: space-around; gap: 10rem;}
     .mobile-menu{top: 60px;}
 
@@ -615,7 +615,7 @@ Show dropdown on hover
     .paper {height: 237px;margin-top: -20px;}
     .main-contents {padding: 14px 5px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1.6rem; height: auto; width: 50px;margin: 10px auto;}
+    .success-icon {font-size: 1.6rem; height: 50px; width: 50px;margin: 10px auto;}
     .success-title {font-size: .9rem;margin-bottom: 10px;}
     .success-description {font-size: .7rem;line-height: 1.7;margin-bottom: 24px;}
 
@@ -643,7 +643,7 @@ Show dropdown on hover
     .paper {height: 217px;margin-top: -20px;}
     .main-contents {padding: 7px 5px;}
     .jagged-edge:after {bottom: 10px;}
-    .success-icon {font-size: 1rem; height: auto; width: 35px;margin: 10px auto;}
+    .success-icon {font-size: 1rem; height: 35px; width: 35px;margin: 10px auto;}
     .success-title {font-size: .8rem;margin-bottom: 10px;}
     .success-description {font-size: .6rem;line-height: 1.7;margin-bottom: 24px;}
 
