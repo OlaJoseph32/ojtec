@@ -136,7 +136,7 @@
     .contact-grid-container{padding: 20px}
 
 /* Second section */
-    .second-section-con .container{align-items: start; justify-content: flex-start; padding: 5px 15px 10px 15px; max-width: 330px; margin: 0 auto;}
+    .second-section-con .container{align-items: start; justify-content: flex-start; padding: 5px 10px 10px 10px; max-width: 330px; margin: 0 auto;}
     .second-section-con h2{font-size: 1.4rem;}
     .second-section-con h3{font-size: 1.2rem;}
     .second-section-con p{font-size: 1.1rem; max-width: 310px;}
