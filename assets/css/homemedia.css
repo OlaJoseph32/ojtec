@@ -270,7 +270,7 @@
 /* Footer */
     .footer-container .container{max-width: 1200px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .8rem;}
+    .article p{font-size: 1rem;}
     .footer-grid-container h2{font-size: 1rem;}
     .footer-grid-container a{font-size: .7rem;}
     .contact-info i{font-size: 1rem;}
@@ -371,7 +371,7 @@
 /* Footer */
     .footer-container .container{max-width: 1400px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: .6rem;}
+    .article p{font-size: 1rem;}
     .footer-grid-container h2{font-size: .7rem;}
     .footer-grid-container a{font-size: .5rem;}
     .contact-info i{font-size: .7rem;}
@@ -481,7 +481,7 @@
     .footer-container .container{max-width: 100%; padding: 0;}
     .footer-grid-container{grid-template-columns: 1fr;gap: 20px;}
     .article img{height: 90px;width: 100px;}
-    .article p{font-size: 1.5rem;}
+    .article p{font-size: 1rem;}
     .footer-grid-container h2{font-size: 1.2rem;margin-bottom: 10px;}
     .footer-grid-container a{font-size: .9rem;}
     .contact-info i{font-size: 1rem;}
